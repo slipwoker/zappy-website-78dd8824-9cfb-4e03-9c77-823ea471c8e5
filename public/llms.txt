@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://stiu-78dd8824.zappy5.app
+https://example.com
 חנות אופנה אונליין עם פריטים מעודכנים לכל עונה. רענן את המלתחה עם בגדים ייחודיים במחירים משתלמים. היכנס עכשיו וגלה את הלוק הבא שלך.
 
 ### אודות
-https://stiu-78dd8824.zappy5.app/about
+https://example.com/about
 בוא להכיר את האנשים והחזון שמאחורי Stiu. מותג אופנה שנולד מאהבה לסטייל, איכות וחדשנות. הצטרף לקהילה של חובבי אופנה אמיתיים.
 
 ### יצירה וטיפול
-https://stiu-78dd8824.zappy5.app/craft-care
+https://example.com/craft-care
 למד כיצד נוצרים הפריטים שלנו ואיך לשמור עליהם לאורך זמן. טיפים מקצועיים שיעזרו לך לטפח את המלתחה האהובה עליך. גלה את עולם האיכות של Stiu.
 
 ### צור קשר
-https://stiu-78dd8824.zappy5.app/contact
+https://example.com/contact
 יש שאלה על מידה, משלוח או סטיילינג? צוות המומחים שלנו מחכה לשמוע ממך. צור קשר עכשיו וקבל מענה אישי ומהיר לכל צורך אופנתי.
 
 ### Products
-https://stiu-78dd8824.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Stiu
 
 ### Cart
-https://stiu-78dd8824.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://stiu-78dd8824.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://stiu-78dd8824.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://stiu-78dd8824.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://stiu-78dd8824.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://stiu-78dd8824.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Stiu
 
 ### Category
-https://stiu-78dd8824.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Stiu
 
 ### תודה שפנית אלינו
-https://stiu-78dd8824.zappy5.app/thank-you
+https://example.com/thank-you
 Stiu - תודה שפנית אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://stiu-78dd8824.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://stiu-78dd8824.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://stiu-78dd8824.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Fashion & Apparel
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://stiu-78dd8824.zappy5.app/sitemap.xml
-- Robots: https://stiu-78dd8824.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://stiu-78dd8824.zappy5.app/llms-full.txt
-- Products (JSON): https://stiu-78dd8824.zappy5.app/products.json
-- Products (Google Merchant RSS): https://stiu-78dd8824.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
