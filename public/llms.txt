@@ -1,0 +1,104 @@
+# Stiu — Generative Engine Optimization Map
+
+> An online clothing store focused on selling fashion items. The specific niche, brand identity, and unique style of the store have not yet been described.
+
+---
+
+## Pages
+
+### בית
+https://stiu-78dd8824.zappy5.app
+חנות אופנה אונליין עם פריטים מעודכנים לכל עונה. רענן את המלתחה עם בגדים ייחודיים במחירים משתלמים. היכנס עכשיו וגלה את הלוק הבא שלך.
+
+### אודות
+https://stiu-78dd8824.zappy5.app/about
+בוא להכיר את האנשים והחזון שמאחורי Stiu. מותג אופנה שנולד מאהבה לסטייל, איכות וחדשנות. הצטרף לקהילה של חובבי אופנה אמיתיים.
+
+### יצירה וטיפול
+https://stiu-78dd8824.zappy5.app/craft-care
+למד כיצד נוצרים הפריטים שלנו ואיך לשמור עליהם לאורך זמן. טיפים מקצועיים שיעזרו לך לטפח את המלתחה האהובה עליך. גלה את עולם האיכות של Stiu.
+
+### צור קשר
+https://stiu-78dd8824.zappy5.app/contact
+יש שאלה על מידה, משלוח או סטיילינג? צוות המומחים שלנו מחכה לשמוע ממך. צור קשר עכשיו וקבל מענה אישי ומהיר לכל צורך אופנתי.
+
+### Products
+https://stiu-78dd8824.zappy5.app/products
+המוצרים שלנו - Stiu
+
+### Cart
+https://stiu-78dd8824.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://stiu-78dd8824.zappy5.app/checkout
+תשלום
+
+### Login
+https://stiu-78dd8824.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://stiu-78dd8824.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://stiu-78dd8824.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://stiu-78dd8824.zappy5.app/product/:slug
+פרטי המוצר - Stiu
+
+### Category
+https://stiu-78dd8824.zappy5.app/category/:slug
+מוצרים - Stiu
+
+### תודה שפנית אלינו
+https://stiu-78dd8824.zappy5.app/thank-you
+Stiu - תודה שפנית אלינו
+
+## Legal & Policy
+
+### Privacy Policy
+https://stiu-78dd8824.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://stiu-78dd8824.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://stiu-78dd8824.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Stiu
+An online clothing store focused on selling fashion items. The specific niche, brand identity, and unique style of the store have not yet been described.
+
+## Target Audience
+- חובבי אופנה צעירים
+- צרכנים ידידותיים לסביבה
+- מקצוענים עירוניים
+
+## Industry
+Fashion & Apparel
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://stiu-78dd8824.zappy5.app/sitemap.xml
+- Robots: https://stiu-78dd8824.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://stiu-78dd8824.zappy5.app/llms-full.txt
+- Products (JSON): https://stiu-78dd8824.zappy5.app/products.json
+- Products (Google Merchant RSS): https://stiu-78dd8824.zappy5.app/product-feed.xml
